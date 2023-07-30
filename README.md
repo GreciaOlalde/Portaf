@@ -1,4 +1,4 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+💡# Portafolio de proyectos. TECNOLOchicas Pro. (Responsive) 💜
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web responsive.
 
