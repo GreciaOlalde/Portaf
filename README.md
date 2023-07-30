@@ -1,4 +1,4 @@
-💡# Portafolio de proyectos. TECNOLOchicas Pro. (Responsive) 💜
+💡# Portafolio de proyectos. TECNOLOchicas Pro. (Página Responsive) 💜
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web responsive.
 
